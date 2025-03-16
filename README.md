@@ -10,6 +10,7 @@ API de gerenciamento de tarefas utilizando Express.js.
 - Código organizado em módulos para facilitar manutenção.
 - Uso de boas práticas como tratamento de erros.
 - Configuração de ambiente de desenvolvimento com `nodemon`.
+- Devido a dificuldades na configuração do Git no ambiente local, o versionamento foi feito manualmente via upload no GitHub.
 
 ## Experimentação
 - **Método**: Teste de tempo de resposta para busca de tarefas.
